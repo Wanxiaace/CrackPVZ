@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrackPVZ", "CrackPVZ\CrackPVZ.vcxproj", "{6116A1B0-293D-4785-8591-E2247F6AC700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6116A1B0-293D-4785-8591-E2247F6AC700}.Debug|x86.ActiveCfg = Debug|Win32
+		{6116A1B0-293D-4785-8591-E2247F6AC700}.Debug|x86.Build.0 = Debug|Win32
+		{6116A1B0-293D-4785-8591-E2247F6AC700}.Release|x86.ActiveCfg = Release|Win32
+		{6116A1B0-293D-4785-8591-E2247F6AC700}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FF25A3-0935-4583-BC07-BE0617FFFA0C}
+	EndGlobalSection
+EndGlobal

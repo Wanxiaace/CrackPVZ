@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Entry.cpp">
+      <Filter>CrackPVZ\src</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperMain.cpp">
+      <Filter>CrackPVZ\src</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperMemory.cpp">
+      <Filter>CrackPVZ\src</Filter>
+    </ClCompile>
+    <ClCompile Include="InlineHook.cpp">
+      <Filter>CrackPVZ\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Decode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AsmFunctions.h">
+      <Filter>CrackPVZ\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Definitions.h">
+      <Filter>CrackPVZ\include</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperMain.h">
+      <Filter>CrackPVZ\include</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperMemory.hpp">
+      <Filter>CrackPVZ\include</Filter>
+    </ClInclude>
+    <ClInclude Include="InlineHook.h">
+      <Filter>CrackPVZ\include</Filter>
+    </ClInclude>
+    <ClInclude Include="PakInterface.h">
+      <Filter>PakLib\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Decode.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CrackPVZ">
+      <UniqueIdentifier>{c78ba5ef-5650-46ac-ac8e-f089d4873ce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrackPVZ\include">
+      <UniqueIdentifier>{a72abcd7-dc2e-4a13-82a2-c86ff16e37af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CrackPVZ\src">
+      <UniqueIdentifier>{b8437077-1c54-49dd-b84b-38d4a2794554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PakLib">
+      <UniqueIdentifier>{b3dd98ed-1e68-4a13-bd24-0ddb628afe8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PakLib\include">
+      <UniqueIdentifier>{eadf1932-5da9-470c-af0c-96b077baba79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PakLib\src">
+      <UniqueIdentifier>{f0e2d13c-1663-4e40-bf92-816d977903cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
